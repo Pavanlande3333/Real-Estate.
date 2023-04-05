@@ -1,4 +1,4 @@
-# Real-Estate.
+# Real-Estate
 Capstone Project
 
 DESCRIPTION
